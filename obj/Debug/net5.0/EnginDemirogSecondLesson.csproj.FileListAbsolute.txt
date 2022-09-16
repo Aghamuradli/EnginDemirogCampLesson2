@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\EnginDemirogSecondLesson.exe
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\EnginDemirogSecondLesson.deps.json
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\EnginDemirogSecondLesson.runtimeconfig.json
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\EnginDemirogSecondLesson.runtimeconfig.dev.json
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\EnginDemirogSecondLesson.dll
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\EnginDemirogSecondLesson.pdb
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\EnginDemirogSecondLesson.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\EnginDemirogSecondLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\EnginDemirogSecondLesson.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\EnginDemirogSecondLesson.AssemblyInfo.cs
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\EnginDemirogSecondLesson.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\EnginDemirogSecondLesson.dll
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\EnginDemirogSecondLesson.dll
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\EnginDemirogSecondLesson.pdb
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\EnginDemirogSecondLesson.genruntimeconfig.cache
+C:\Users\Agamuradov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\EnginDemirogSecondLesson.dll
