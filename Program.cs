@@ -60,10 +60,10 @@ namespace ConsoleApp1
 
         class Clothes
         {
-            public string name { get; set; }
-            public double price { get; set; }
-            public double count { get; set; }
-            public string color { get; set; }
+            public string Name { get; set; }
+            public double Price { get; set; }
+            public double Count { get; set; }
+            public string Color { get; set; }
         }
     }
 }
